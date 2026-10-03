@@ -60,4 +60,4 @@ git add -A && git commit -m "Update privacybeleid" && git push
 
 ## Contact
 
-Wouter De Saedeleer (WDS-Consulting) — wouterds.wds@gmail.com
+Wouter De Saedeleer (WDS-Consulting) — wouter.de.saedeleer@wds-consulting.be
